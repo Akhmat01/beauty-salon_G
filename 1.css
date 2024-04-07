@@ -1,0 +1,64 @@
+header{
+    height: 70%;
+    justify-content:center;
+   }
+
+.logo-header{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content:center;
+}
+
+.logo{
+    width: 10%;
+    padding-top: 10px;
+}
+
+body{
+  margin:0 auto;
+  background-image: url(image/girls.jpg);
+  background-size: cover;
+  height: 100%;
+  weight: 100%;
+}
+
+.link li{
+    display: inline-block;
+    margin-right: 70px;
+}
+
+.link-header1{
+    margin-top:-100px;
+    margin-left: 130px;
+}
+
+.link-header2{
+    margin-top:-35px;
+    text-align: right;
+    margin-right: 100px;
+}
+
+.header-href{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    font-size: 150%;
+    text-decoration: none;
+}
+
+.text-header h1{
+    margin-top: 100px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.text-header p{
+    width: 250px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+}
+.text-header{
+    display: block;
+}
